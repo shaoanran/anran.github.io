@@ -11,12 +11,12 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-# lets' add some links
+# let's add some links
 
 i often use [google](google.com) to do data science.
 [google] -- text I want to show on the page as the link.
 
-## add an image
+## let's add an image
 
 here is the view:
 
