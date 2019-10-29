@@ -1,18 +1,18 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1572324359073.000,
+    "created" : 1572389868464.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "3715594187",
-    "id" : "BEEDE53B",
-    "lastKnownWriteTime" : 1572324391,
-    "last_content_update" : 1572324391951,
+    "id" : "45EF7C81",
+    "lastKnownWriteTime" : 1572389913,
+    "last_content_update" : 1572389913616,
     "path" : "~/Desktop/Data Science/shaoanran.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "10,0",
+        "cursorPosition" : "15,43",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
