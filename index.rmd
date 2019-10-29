@@ -16,7 +16,7 @@ output:
 i often use [google](google.com) to do data science.
 [google] -- text I want to show on the page as the link.
 
-## let's add an image
+## let's add an image 
 
 here is the view:
 
