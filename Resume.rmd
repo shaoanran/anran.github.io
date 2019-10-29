@@ -7,47 +7,60 @@ output:
     theme: cerulean
 ---
 
-#### Education 
-Columbia University, Mailman School of Public Health, New York, NY
+### Education 
 
-Master of Public Health, Epidemiology; Certificate in Applied Biostatistics 				Expected May 2020
+**Columbia University, Mailman School of Public Health**, **New York**, **NY**
 
-University of California, Davis	
+Master of Public Health, Epidemiology; Certificate in Applied Biostatistics     	Expected May 2020
 
-Bachelor of Science, Clinical Nutrition 						June 2018 
+**University of California**, **Davis**, **CA**
+
+Bachelor of Science, Clinical Nutrition 					                         	June 2018 
 
 
+### Academic Experience
 
-EDUCATION
-Columbia University, Mailman School of Public Health, New York, NY
-Master of Public Health, Epidemiology; Certificate in Applied Biostatistics 				Expected May 2020
-University of California, Davis	
-Bachelor of Science, Clinical Nutrition 											    June 2018 
-EXPERIENCE
-Columbia University, Department of Epidemiology, Irving Comprehensive Cancer Center 
-Epidemiology Intern												New York, NY, 6/2019-8/2019
-•	Recruited qualified patients into our database that provide oversight and infrastructure for the development and maintenance of cancer-related clinical databases.
+**Columbia University, Department of Epidemiology, Irving Comprehensive Cancer Center **
+
+**Epidemiology Intern**												New York, NY, 6/2019-8/2019
+
+•	Recruited qualified patients into our database that provide oversight and infrastructure for the
+
+development and maintenance of cancer-related clinical databases.
+
 •	Translating consent form from English to Chinese to help Chinese patients understand better. 
-•	Cleaned data for 4300 questionnaires using SAS, improving the consistency of data and getting the results about frequency for variables in the questionnaires.
-•	Gave out some ideas modifying the questionnaires for easier data entry and better questionnaire completeness. 
-UC Davis, Department of Nutrition	
-Epidemiology Research Assistant             								Davis, CA, 6/2017-6/2018
+
+•	Cleaned data for 4300 questionnaires using SAS, improving the consistency of data and getting the
+
+results about frequency for variables in the questionnaires.
+
+•	Gave out some ideas modifying the questionnaires for easier data entry and better questionnaire
+
+completeness. 
+
+**UC Davis, Department of Nutrition	**
+
+**Epidemiology Research Assistant  **           								Davis, CA, 6/2017-6/2018
+
 •	Assessed the implementation and reach of Cameroon’s mandatory national program to fortify vegetable oil and wheat flour, and market-driven fortification of bouillon cubes.
+
 •	Cleaned data from large household survey with 800 responses using STATA, improving consistency and accuracy of data.
-•	Screened articles and extracted data for systematic review to define the “Double Burden” of malnutrition. Collected 500+ relevant peer-reviewed papers and grey literature with EndNote. Collaborated with teammates to review journal articles using the Covidence software platform.
-UC Davis, Department of Molecular and Cellular Biology	
-Clinical Nutrition Research Assistant 										Davis, CA, 6/2017-4/2018
-•	Investigated the metabolic effects of sugar by providing subjects an energy-balanced diet with controlled beverage
+
+•	Screened articles and extracted data for systematic review to define the “Double Burden” of malnutrition. Collected 500+ relevant peer-reviewed papers and grey literature with EndNote.
+
+•	Collaborated with teammates to review journal articles using the Covidence software platform.
+
+**UC Davis, Department of Molecular and Cellular Biology**	
+
+**Clinical Nutrition Research Assistant **						 			Davis, CA, 6/2017-4/2018
+•	Investigated the metabolic effects of sugar by providing subjects an energy-balanced diet with
+controlled beverage
+
 •	Calculated the amount of food needed by subjects based on individual calorie requirement and accurately weighed the food; accurately tracked biological samples and followed research protocols
-•	Shadowed measuring RMR data, blood sampling procedure and clamp procedure
+
+•	Shadowed measuring RMR data, blood sampling procedure and clamp procedure.
+
 •	Recruited subjects through telephone interview and entered subjects’ data into Excel documents. 
-SKILLS
-•	SAS, EndNote, STATA, Microsoft (Word, Excel, PowerPoint), Covidence, WordPress, Redcap, Velos, Crowns; 
-•	Fluent Mandarin Chinese 
-
-
-
-
 
 
 
