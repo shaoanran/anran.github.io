@@ -22,7 +22,7 @@ Bachelor of Science, Clinical Nutrition 					                         	June 2018
 
 **Columbia University, Department of Epidemiology, Irving Comprehensive Cancer Center **
 
-***Epidemiology Intern***						-----						New York, NY, 6/2019-8/2019
+***Epidemiology Intern***									New York, NY, 6/2019-8/2019
 
 *	Recruited qualified patients into our database that provide oversight and infrastructure for the development and maintenance of cancer-related clinical databases.
 * Translating consent form from English to Chinese to help Chinese patients understand better. 
@@ -31,7 +31,7 @@ Bachelor of Science, Clinical Nutrition 					                         	June 2018
 
 **UC Davis, Department of Nutrition	**
 
-***Epidemiology Research Assistant***         -----  		Davis, CA, 6/2017-6/2018
+***Epidemiology Research Assistant***      		Davis, CA, 6/2017-6/2018
 
 *	Assessed the implementation and reach of Cameroon’s mandatory national program to fortify vegetable oil and wheat flour, and market-driven fortification of bouillon cubes.
 * Cleaned data from large household survey with 800 responses using STATA, improving consistency and accuracy of data.
