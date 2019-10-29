@@ -1,16 +1,16 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1572323579105.000,
+    "created" : 1572324078136.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "B4D1B88C",
-    "lastKnownWriteTime" : 1572323874,
-    "last_content_update" : 1572323874287,
-    "path" : "~/Desktop/Data Science/shaoanran.github.io/as5685.Rmd",
-    "project_path" : "as5685.Rmd",
+    "hash" : "3715594187",
+    "id" : "8CC26C0E",
+    "lastKnownWriteTime" : 1572324119,
+    "last_content_update" : 1572324119229,
+    "path" : "~/Desktop/Data Science/shaoanran.github.io/Index.Rmd",
+    "project_path" : "Index.Rmd",
     "properties" : {
         "cursorPosition" : "15,43",
         "scrollLine" : "0",
@@ -19,7 +19,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
