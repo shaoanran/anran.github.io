@@ -1,5 +1,5 @@
 ---
-title: "My first website"
+title: "My personal website"
 output: 
   html_document:
     toc: true
@@ -12,4 +12,8 @@ output:
 
 
 ### Who am I? 
+
+
+
+#### This is my [resume](Resume.html) link. 
 
