@@ -1,5 +1,5 @@
 ---
-title: "Anran's personal website"
+title: "Hello! Welcome to Anran’s website"
 output: 
   html_document:
     toc: true
@@ -7,14 +7,13 @@ output:
     theme: journal
 ---
 ---
-# My personal website
-
-## Hello! Welcome to Anran’s website
 
 ### Who am I?
   I am second-year student in **Mailman School of Public Health**, studying Epidemiology certificated in Applied Biostatistics.  I was a research assistant investigating the association between the use of iron supplement and birth weight in Cameroon.  Now, I am working on my thesis about how Alternative Health Eating Pattern effect the breast cancer risk among high-risk population, and how the association is impacted by other potential factors such as breast cancer subtypes and family history. 
     
   I am taking **Data Science** recently to learn how to build my own website with R. 
 
+### My Profile links:
+####### [Resume](Resume.html)
+####### [LinkedIn](http://www.linkedin.com/in/shaoanran/)
 
-#### My resume is available [here](Resume.html).
