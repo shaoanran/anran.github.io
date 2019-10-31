@@ -8,7 +8,7 @@ navbar:
     - text: "Plots"
       menu:
         - text: "Plotly"
-          href: plots.html
+          href: Plots.html
         - text: "Dashboard"
           href: dashboard.html
     - icon: fa-envelope fa-lg
