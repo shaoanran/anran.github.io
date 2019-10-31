@@ -47,7 +47,7 @@ sample_n(2000)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Scatter Plot
 
 ```{r}
 sample_data %>% 
@@ -58,7 +58,7 @@ sample_data %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Box Plot
 
 ```{r}
 sample_data  %>%
@@ -67,7 +67,7 @@ sample_data  %>%
           colors = "Set2")
 ```
 
-### Chart C
+### Bar plot 
 
 ```{r}
   sample_data %>% 
