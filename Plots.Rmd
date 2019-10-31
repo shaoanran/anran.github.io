@@ -19,14 +19,14 @@ library(plotly)
 ```
 
 
-## load in data 
+## Load in data 
 
 ```{r}
 data("ny_noaa")
 ```
 
 
-## filtering data
+## Filtering data
 
 ```{r}
 set.seed(1)
@@ -49,7 +49,7 @@ sample_n(2000)
 ```
 
 
-## scatter plots. Association betwen tmin and tmax for each year. 
+## Scatter plots for association between tmin and tmax for each year in Tully. 
 ```{r}
 scatter_plots =
 sample_data %>% 
@@ -58,7 +58,7 @@ sample_data %>%
 scatter_plots
 ```
 
-## box plot
+## Box plot for distribution of minimum temperature for each day in each year. 
 ```{r}
 boxplot = 
 sample_data  %>%
@@ -68,7 +68,8 @@ sample_data  %>%
 boxplot
 ```
 
-##bar plot. The number of days without snow in each year. 
+## Bar plot for the number of days without snow in each year. 
+
 ```{r}
 bar_plot = 
   sample_data %>% 
