@@ -28,7 +28,7 @@ data("ny_noaa")
 
 ## Filtering data
 
-```{r}
+```{r warning=FALSE}
 set.seed(1)
 sample_data =
 ny_noaa %>% 
@@ -53,7 +53,7 @@ sample_n(2000)
 
 ### Association between tmin and tmax for each year in Tully. 
 
-```{r}
+```{r warning=FALSE}
 scatter_plots =
 sample_data %>% 
   plot_ly(x = ~ tmin, y = ~ tmax, type = "scatter", mode = "markers",color = ~year, alpha = 0.5) 
@@ -62,8 +62,9 @@ scatter_plots
 ```
 
 ## Box plot
+
 ### Distribution of minimum temperature for each day in each year. 
-```{r}
+```{r warning=FALSE}
 boxplot = 
 sample_data  %>%
   mutate(year = fct_reorder(year, tmin)) %>% 
@@ -75,7 +76,7 @@ boxplot
 ## Bar plot 
 ### The number of days without snow in each year. 
 
-```{r}
+```{r warning=FALSE}
 bar_plot = 
   sample_data %>% 
   filter(snwd != "0") %>% 
