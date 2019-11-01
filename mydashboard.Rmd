@@ -43,7 +43,7 @@ sample_n(2000)
 Column {data-width=600}
 -----------------------------------------------------------------------
 
-### Scatter Plot :Association between tmin and tmax for each year in Tully.
+### Chart A
 
 ```{r}
 sample_data %>% 
@@ -54,7 +54,7 @@ sample_data %>%
 Column {data-width=400}
 -----------------------------------------------------------------------
 
-### Box Plot: Distribution of minimum temperature for each day in each year. 
+### Chart B
 
 ```{r}
 sample_data  %>%
@@ -63,7 +63,7 @@ sample_data  %>%
           colors = "Set2")
 ```
 
-### Bar plot: The number of days without snow in each year. 
+### Chart C
 
 ```{r}
   sample_data %>% 
