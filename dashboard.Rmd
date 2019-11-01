@@ -11,15 +11,14 @@ library(flexdashboard)
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
-
 library(plotly)
 ```
 
-## Load in and filter data.
-
 ```{r}
 data("ny_noaa")
-set.seed(1)
+```
+
+```{r}
 
 set.seed(1)
 sample_data =
