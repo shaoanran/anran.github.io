@@ -15,6 +15,7 @@ library(p8105.datasets)
 library(plotly)
 ```
 
+## Load in and filter data.
 
 ```{r}
 data("ny_noaa")
@@ -38,8 +39,6 @@ ny_noaa %>%
   select(-month,-day) %>% 
 sample_n(2000)
 ```
-
-
 
 
 
